@@ -19,3 +19,4 @@ matplotlib==3.3.2
 notebook==6.3.0
 numpy==1.19.2
 Shapely==1.7.1
+voila==0.2.10
