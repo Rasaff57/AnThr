@@ -88,7 +88,7 @@ requests==2.23.0
 ruamel-yaml==0.15.87
 Send2Trash==1.5.0
 Shapely==1.7.1
-sip==4.19.13
+sip==5.0.0
 six==1.14.0
 sniffio==1.2.0
 terminado==0.9.3
