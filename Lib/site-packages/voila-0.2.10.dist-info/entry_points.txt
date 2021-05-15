@@ -1,0 +1,3 @@
+[console_scripts]
+voila = voila.app:main
+
